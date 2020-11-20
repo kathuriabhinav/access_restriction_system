@@ -1,9 +1,7 @@
 # Automatic_access_resricted_system
 An access monitoring system , in which you can register for a timeslot and continue to grant access while entering.
 
-==============================================
 Instructions for database and table generation
-==============================================
 
 -> 	for schema generation and table, there is no extra effort needed for execution 
 	of any type of scripts.Because I have added that in my code itself, 
@@ -13,9 +11,7 @@ Instructions for database and table generation
 	It creates a table in the database also if there is no table.
 	The names of database and table are 'database' and 'user1' respectively.
 
-====================================================
 Instructions for execution and specific requirements
-====================================================
 
 -> 	The folder named 'oom_group_15' is the project folder.
 
@@ -27,18 +23,14 @@ Instructions for execution and specific requirements
 
 ->	While registration please enter 'A VALID EMAIL ID'.
 
-===================
 SYSTEM REQUIREMENTS
-=================== 
 
 * Operating System: Any 
 * jdk latest version 
 * Proper internet connection .
 * Email account of user ( Not a system requirement , but still ) .
 
-===========================================================
 Guide to use the automatic access restricted system project
-===========================================================
 
 ->	Open the ar file using 'java openjdk platform binary' to run the jar file.
 
@@ -72,9 +64,7 @@ Guide to use the automatic access restricted system project
 	you will be informed about that and if you want to leave 
 	your state of leaving can also be recorded. 
 
-========
 FEATURES
-======== 
 
 * Registration of user 
 * Updation of user details
@@ -83,9 +73,7 @@ FEATURES
 * The slot Details in the registration will automatically be sent to the user to the provided Email ID.
 * Display of access using the system time.
 
-=================
 DEVELOPMENT TOOLS
-=================
 
 * Java GUI Frameworks such as Swing & AWT API.
 * Abstract Window Toolkit
