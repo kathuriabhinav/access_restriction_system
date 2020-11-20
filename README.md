@@ -25,10 +25,10 @@ Instructions for execution and specific requirements
 
 SYSTEM REQUIREMENTS
 
-* Operating System: Any 
-* jdk latest version 
-* Proper internet connection .
-* Email account of user ( Not a system requirement , but still ) .
+	Operating System: Any 
+	jdk latest version 
+	Proper internet connection .
+	Email account of user ( Not a system requirement , but still ) .
 
 Guide to use the automatic access restricted system project
 
@@ -40,7 +40,7 @@ Guide to use the automatic access restricted system project
 	it will send a confirmation email which confirms you of the slot you have selected 
 	and redirects you to a status confirmation frame.
 
-->	While registration please enter 'A VALID EMAIL ID'.
+	While registration please enter 'A VALID EMAIL ID'.
 
 ->	The Update button in the MAIN MENU redirects you to LOGIN PAGE
 
@@ -56,8 +56,8 @@ Guide to use the automatic access restricted system project
 
 ->	In the DISPLAY PAGE you can opt for two options
 	
-	-- I want to enter
-	-- I want to leave
+	I want to enter
+	I want to leave
 
 ->	If you have access to enter at that time according to your registration,
 	your entry is recorded and you can enter. If you have no access at that time 
@@ -75,10 +75,11 @@ FEATURES
 
 DEVELOPMENT TOOLS
 
-* Java GUI Frameworks such as Swing & AWT API.
-* Abstract Window Toolkit
-* Extra Libraries:- 
-	( Already exist in the project folder itself )
-	used for Mail Functionality, creating an embedded database.
-* Use the netbeans or any similar platform and use the import project option by importing the project folder named ‘oom_group_15’ for further development.
+	Java GUI Frameworks such as Swing & AWT API.
+	Abstract Window Toolkit
+	Extra Libraries:- 
+		( Already exist in the project folder itself )
+		used for Mail Functionality, creating an embedded database.
+	Use the netbeans or any similar platform and use the import project option 
+		by importing the project folder named ‘oom_group_15’ for further development.
 
